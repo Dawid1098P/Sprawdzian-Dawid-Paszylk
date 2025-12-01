@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(103, 81, 169);
+    font-family: Arial,;
+    font-size: 110%;
+}
+h1{
+    color: bisque;
+    text-align: center;
+   
+}
+p{
+    margin: 34px;
+    line-height: 20%;
+}
+ul{
+    list-style-type: square;
+    padding: 4%;
+}
+.wyroznione{
+    color: rgb(171, 45, 45);
+    font-weight: 950;
+
+    
+
+      
+}
+h1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(21, 45, 24);
+    transition: width 2s;
+ 
+  }
+  
+  h1:hover {
+    width: 300px;
+  }
